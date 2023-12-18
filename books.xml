@@ -1,0 +1,28 @@
+<genres>
+    <classics>
+        <book>
+            <title>
+                <english>The Great Gatsby</english>
+                <spanish>El Gran Gatsby</spanish>
+            </title>
+            <author>F. Scott Fitzgerald</author>
+            <price>
+                <full_price>14.99</full_price>
+                <sale_price>10.99</sale_price>
+            </price>
+        </book>
+        <book title="1984" author="George Orwell" price="9.99" />
+        <book>
+            <title>The Great Gatsby</title>
+            <author>F. Scott Fitzgerald</author>
+            <price>14.99</price>
+        </book>
+    </classics>
+    <science_fiction>
+        <book>
+            <title>Dune</title>
+            <author>Frank Herbert</author>
+            <price>15.99</price>
+        </book>
+    </science_fiction>
+</genres>

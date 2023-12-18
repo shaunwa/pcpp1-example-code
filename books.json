@@ -1,0 +1,38 @@
+{
+    "genres": {
+        "classics": [
+            {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "price": "14.99"
+            },
+            {
+                "title": "1984",
+                "author": "George Orwell",
+                "price": "9.99"
+            },
+            {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "price": "12.89"
+            }
+        ],
+        "science_fiction": [
+            {
+                "title": "Dune",
+                "author": "Frank Herbert",
+                "price": "15.99"
+            },
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "author": "Douglas Adams",
+                "price": "12.00"
+            },
+            {
+                "title": "Ender's Game",
+                "author": "Orson Scott Card",
+                "price": "14.00"
+            }
+        ]
+    }
+}

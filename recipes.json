@@ -1,0 +1,13 @@
+{
+    "title": "Chocolate Chip Cookies",
+    "ingredients": [
+        { "name": "sugar", "amount": "1 cup" },
+        { "name": "flour", "amount": "2 cups" },
+        { "name": "chocolate chips", "amount": "1 cup" }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F",
+        "Mix sugar and flour",
+        "Mix in the room temperature butter"
+    ] 
+}

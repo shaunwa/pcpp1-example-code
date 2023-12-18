@@ -1,0 +1,16 @@
+<recipe published="2000">
+    <title>Chocolate Chip Cookies</title>
+    <ingredients>
+        <item name="sugar" amount="1 cup" />
+        <item name="flour" amount="2 cups" />
+        <item name="chocolate chips" amount="1 cup" />
+        <item name="butter" amount="1 stick" />
+    </ingredients>
+    <instructions>
+        <step>Preheat oven to 375 degrees F</step>
+        <step>Mix sugar and flour</step>
+        <step>Mix in the room-temperature butter</step>
+        <step>Add chocolate chips</step>
+        <step>Bake for 10 minutes</step>
+    </instructions>
+</recipe>
